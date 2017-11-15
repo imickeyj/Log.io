@@ -15,3 +15,5 @@ logServer = new server.LogServer(logConf);
 webServer = new server.WebServer(logServer, webConf);
 webServer.run();
 test test test
+test test test
+test test test
